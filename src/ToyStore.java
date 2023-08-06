@@ -56,7 +56,7 @@ public class ToyStore {
 
         try {
             FileWriter writer = new FileWriter(filename, true);
-            writer.write("id:" + prizeToy.getId() + " " + prizeToy.getName() + "\n");
+            writer.write(prizeToy.toString() + "\n");
             writer.close();
         } catch (IOException e) {
             System.out.println("Ошибка при записи в файл игрушки");

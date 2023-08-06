@@ -1,5 +1,4 @@
-
-id:3 Футбольный мяч
-id:3 Футбольный мяч
-id:2 Машинка
-id:4 Пазл
+Toy{id=4, name='Пазл', quantity=200, weight=9.0}
+Toy{id=4, name='Пазл', quantity=200, weight=9.0}
+Toy{id=2, name='Машинка', quantity=10, weight=30.0}
+Toy{id=2, name='Машинка', quantity=10, weight=30.0}
